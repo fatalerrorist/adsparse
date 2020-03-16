@@ -1,0 +1,4 @@
+click
+psycopg2 
+flask
+flask_sqlalchemy
