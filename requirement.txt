@@ -1,4 +1,5 @@
-click
-psycopg2 
-flask
-flask_sqlalchemy
+click==7.0
+psycopg2==2.8.4
+flask==1.1.1
+flask_sqlalchemy==2.4.1
+requests==2.22.0
